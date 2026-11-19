@@ -1,0 +1,9 @@
+CC0 1.0 Universal dedication
+
+To the extent possible under law, the author(s) of the generated test tone have
+waived all copyright and related or neighboring rights in the generated audio
+file `test-tone.wav`, allowing it to be copied, modified, distributed and used
+for any purpose, including commercial purposes, without asking permission.
+
+Legal text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+Summary:  https://creativecommons.org/publicdomain/zero/1.0/
